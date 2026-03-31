@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.0.7",
+  "versionCode": 9,
+  "versionName": "1.0.0.8",
   "apkUrl": "https://github.com/Dasdws33/blackout-pe-updates/releases/download/v1.0.0.1/app-debug.apk",
   "changelog": "Исправлены баги с анимациями",
   "forceUpdate": false
